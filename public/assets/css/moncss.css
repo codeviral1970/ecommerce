@@ -1,0 +1,13 @@
+.nav-item-custom a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-custom {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  padding-top: 1rem;
+  background-color: #ccc;
+}
